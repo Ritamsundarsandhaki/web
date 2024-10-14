@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+
+}
+.student_table{
+   
+    width: 300px;
+    margin: 100px;
+    border-radius: 23px;
+}
+.student_table td,th{
+
+    border: 1px double rgb(128, 137, 235);
+}
+.student_table button{
+    margin:   10px 50%;
+    
+}
+.student_table tbody tr td:nth-child(odd)
+{
+    background-color: aquamarine;
+}
